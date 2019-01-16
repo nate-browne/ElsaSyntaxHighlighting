@@ -17,6 +17,10 @@ called `.vim`.
 
 3. That's it!
 
+If you already have those directories in your `.vim` directory, setup is even
+easier. Simply copy the files inside to their respective directories, and you're
+done!
+
 ### Collaboration
 
 Feel free to collaborate and contribute to this repo via pull request!
