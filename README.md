@@ -13,7 +13,7 @@ information about Elsa can be found [here](https://github.com/ucsd-progsys/elsa)
 1. If you don't already have one, create a directory in your home directory
 called `.vim`.
 
-2. Move both of the provided directories into your `.vim` directory.
+2. Move all three of the provided directories into your `.vim` directory.
 
 3. That's it!
 
