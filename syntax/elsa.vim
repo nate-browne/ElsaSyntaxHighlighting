@@ -14,7 +14,7 @@ syntax keyword elsaTodo contained TODO FIXME XXX
 
 " Strings
 syntax match elsaComment "\v--.*$" contains=elsaTodo
-syntax match elsaConstant "\v[A-Z]+"
+syntax match elsaConstant "\v[A-Z]+\d*"
 
 " Operators
 syntax match elsaOperator "\v\-\>"
